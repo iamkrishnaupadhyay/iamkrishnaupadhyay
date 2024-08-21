@@ -19,6 +19,7 @@
 - 📫 How to reach me **upadhyay2000krishna@gmail.com**
 
 - 📄 Know about my experiences [https://krishnaportfolioo.netlify.app/assets/Krishna%20New%20Generalised%20CV.pdf](https://krishnaportfolioo.netlify.app/assets/Krishna%20New%20Generalised%20CV.pdf)
+- <iframe src="https://krishnaportfolioo.netlify.app/assets/Krishna%20New%20Generalised%20CV.pdf](https://krishnaportfolioo.netlify.app/assets/Krishna%20New%20Generalised%20CV.pdf" width="500" height="500" allowfullscreen></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
